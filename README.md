@@ -33,3 +33,7 @@ Hey, My name is Akshat Jain. I decided to create a new challenge that is 25 Days
 ### Day 8 : Binary Search
 [Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Searching/BinarySearch.cpp)</br>
 [Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
+
+### Day 9 : Quick Sort
+[Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Sorting/QuickSort.cpp)</br>
+[Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
