@@ -5,6 +5,7 @@ void topoSortDFS(int node,vector<int> adj[],vector<int>&vis,stack<int>&s){
     for(auto it : adj[node]){
         if(!vis[it]){
             topoSortDFS(it,adj,vis,s);
+            // calling recursive dfs 
         }
     }
     s.push(node);
