@@ -37,3 +37,7 @@ Hey, My name is Akshat Jain. I decided to create a new challenge that is 25 Days
 ### Day 9 : Quick Sort
 [Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Sorting/QuickSort.cpp)</br>
 [Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
+
+### Day 10 : Topological Sort
+[Line to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Graphs/TopologicalSort.cpp)</br>
+[Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
