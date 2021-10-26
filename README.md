@@ -53,3 +53,8 @@ Hey, My name is Akshat Jain. I decided to create a new challenge that is 25 Days
 ### Day 13 : Breadth First Search
 [Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Searching/BFS.cpp)</br>
 [Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
+
+### Day 14 : Kadane's Algo
+[Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Arrays/kadanes.cpp)</br>
+[Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
+
