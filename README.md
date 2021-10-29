@@ -62,4 +62,6 @@ Hey, My name is Akshat Jain. I decided to create a new challenge that is 25 Days
 [Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Arrays/FloydsCycleDetection.cpp)</br>
 [Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
 
-## Akshat Jain
+### Day 16 : Count Sort
+[Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Sorting/CountSort.cpp)</br>
+[Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
