@@ -65,3 +65,7 @@ Hey, My name is Akshat Jain. I decided to create a new challenge that is 25 Days
 ### Day 16 : Count Sort
 [Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Sorting/CountSort.cpp)</br>
 [Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
+
+### Day 17 : Quick Select
+[Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Arrays/quickSelect.cpp)</br>
+[Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
