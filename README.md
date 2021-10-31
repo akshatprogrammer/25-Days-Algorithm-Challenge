@@ -69,3 +69,19 @@ Hey, My name is Akshat Jain. I decided to create a new challenge that is 25 Days
 ### Day 17 : Quick Select
 [Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Arrays/quickSelect.cpp)</br>
 [Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
+
+# Connect With Me
+LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>
+Email : akshat.kodia@gmail.com<br/>
+Twitter : www.twitter.com/akki_aj89<br/>
+Website : https://akshatprogrammer.github.io/portfolio/
+
+# Personal
+Name : Akshat Jain<br/>
+University : Graphic Era University, Dehradun(UK)
+
+If any problem with this program reach me at Telegram<br/>
+Here is the link -> https://t.me/akki_aj89
+
+# Gratitude
+Thank You, if you like it please leave a Star.
