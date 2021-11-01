@@ -69,3 +69,7 @@ Hey, My name is Akshat Jain. I decided to create a new challenge that is 25 Days
 ### Day 17 : Quick Select
 [Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Arrays/quickSelect.cpp)</br>
 [Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
+
+### Day 18 : Kruskals Algorithm
+[Line to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Graphs/Kruskals.cpp)</br>
+[Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
