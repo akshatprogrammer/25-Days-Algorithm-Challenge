@@ -1,7 +1,6 @@
 # 25-Days-Algorithm-Challenge
 Hey, My name is Akshat Jain. I decided to create a new challenge that is 25 Days 25 Algorithm.
 
-## Sorting
 ### Day 1 : Insertion Sort
 [Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Sorting/insertionSort.cpp)</br>
 [Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
@@ -70,11 +69,10 @@ Hey, My name is Akshat Jain. I decided to create a new challenge that is 25 Days
 [Link to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Arrays/quickSelect.cpp)</br>
 [Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
 
-<<<<<<< HEAD
 ### Day 18 : Kruskals Algorithm
 [Line to the code](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Graphs/Kruskals.cpp)</br>
 [Link to the Spreadsheet](https://github.com/akshatprogrammer/25-Days-Algorithm-Challenge/blob/main/Algo-Spreadsheet.ods)
-=======
+
 # Connect With Me
 LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>
 Email : akshat.kodia@gmail.com<br/>
@@ -90,4 +88,4 @@ Here is the link -> https://t.me/akki_aj89
 
 # Gratitude
 Thank You, if you like it please leave a Star.
->>>>>>> 6be9ee46cc923d63f2535f2b0dc19981d79c554c
+
